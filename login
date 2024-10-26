@@ -18,7 +18,7 @@ function login_shell()
             display: flex;
             justify-content: center;
             align-items: center;
-            background: url('https://images2.imgbox.com/26/92/vCD4UyLW_o.png') no-repeat center center;
+            background: url('https://images2.imgbox.com/a3/b4/mgDd3Jzl_o.png') no-repeat center center;
             background-size: cover;
             font-family: Arial, sans-serif;
             overflow: hidden;
