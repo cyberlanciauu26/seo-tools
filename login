@@ -94,7 +94,7 @@ function login_shell()
 <body>
     <div class="marquee-container">
         <div class="marquee">
-            copyright © zhypershell
+            copyright © TakitaxKitux
         </div>
     </div>
     <div class="login-container">
